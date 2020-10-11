@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6900004-a020-493f-9cbc-e59bb6811217" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/Documents/Applications/go1.15.2.linux-amd64" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iglklyIdMPEvaxwY5viYt7oC7W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rpc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/handracs2007/demogrpcclient/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demogrpcclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GRPC_TRACE" value="all" />
+        <env name="GRPC_VERBOSITY" value="DEBUG" />
+        <env name="GODEBUG" value="http2debug=1" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="github.com/handracs2007/demogrpcclient/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/handracs2007/demogrpcclient/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602377998087">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602377998087" />
+    <state x="801" y="295" width="308" height="533" key="EnvironmentVariablesDialog" timestamp="1602377760957">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="801" y="295" width="308" height="533" key="EnvironmentVariablesDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602377760957" />
+    <state width="1872" height="274" key="GridCell.Tab.0.bottom" timestamp="1602384466032">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1872" height="274" key="GridCell.Tab.0.bottom/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602384466032" />
+    <state width="1872" height="274" key="GridCell.Tab.0.center" timestamp="1602384466032">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1872" height="274" key="GridCell.Tab.0.center/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602384466032" />
+    <state width="1872" height="274" key="GridCell.Tab.0.left" timestamp="1602384466031">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1872" height="274" key="GridCell.Tab.0.left/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602384466031" />
+    <state width="1872" height="274" key="GridCell.Tab.0.right" timestamp="1602384466032">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1872" height="274" key="GridCell.Tab.0.right/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602384466032" />
+  </component>
+</project>
